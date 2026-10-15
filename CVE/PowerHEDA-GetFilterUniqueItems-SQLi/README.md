@@ -146,5 +146,6 @@ A remote attacker who can reach the ASMX endpoint can run arbitrary SQL as the P
 
 ## References
 
-- This writeup: https://github.com/stSLAYER/Lich-Sec/tree/main/CVE/PowerHEDA-GetFilterUniqueItems-SQLi
+- MITRE-stable writeup (do not rename): https://github.com/stSLAYER/ZeroDayVulnerabilities-/tree/main/PowerHEDA
+- This folder (may be renamed after CVE assignment): https://github.com/stSLAYER/Lich-Sec/tree/main/CVE/PowerHEDA-GetFilterUniqueItems-SQLi
 - Vendor product: https://www.heda.co.za/
